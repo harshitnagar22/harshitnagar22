@@ -62,18 +62,6 @@ I don't just use tech -- I dissect it, improve it, and share it. Whether it's pu
 
 <br>
 
-## Featured Projects
-
-<div align="center">
-
-[![DocuMind-Ai](https://github-readme-stats.vercel.app/api/pin/?username=harshitnagar22&repo=DocuMind-Ai&theme=tokyonight&border_color=6d28d9&bg_color=0d1117)](https://github.com/harshitnagar22/DocuMind-Ai)
-[![TaskByte](https://github-readme-stats.vercel.app/api/pin/?username=harshitnagar22&repo=TaskByte&theme=tokyonight&border_color=2563eb&bg_color=0d1117)](https://github.com/harshitnagar22/TaskByte)
-[![fenn](https://github-readme-stats.vercel.app/api/pin/?username=harshitnagar22&repo=fenn&theme=tokyonight&border_color=06b6d4&bg_color=0d1117)](https://github.com/harshitnagar22/fenn)
-[![SkillOpt](https://github-readme-stats.vercel.app/api/pin/?username=harshitnagar22&repo=SkillOpt&theme=tokyonight&border_color=6d28d9&bg_color=0d1117)](https://github.com/harshitnagar22/SkillOpt)
-[![ImpactSense_AI](https://github-readme-stats.vercel.app/api/pin/?username=harshitnagar22&repo=ImpactSense_AI&theme=tokyonight&border_color=2563eb&bg_color=0d1117)](https://github.com/harshitnagar22/ImpactSense_AI)
-[![face-attendance-system](https://github-readme-stats.vercel.app/api/pin/?username=harshitnagar22&repo=face-attendance-system-python-opencv&theme=tokyonight&border_color=06b6d4&bg_color=0d1117)](https://github.com/harshitnagar22/face-attendance-system-python-opencv)
-
-</div>
 
 <br>
 
