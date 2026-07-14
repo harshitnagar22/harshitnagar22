@@ -68,10 +68,6 @@ I don't just use tech — I dissect it, improve it, and share it. Whether it's c
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=harshitnagar22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d28d9&icon_color=2563eb" width="49%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitnagar22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6d28d9" width="49%">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitnagar22&theme=tokyonight&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitnagar22&theme=tokyonight&hide_border=true&background=0d1117&border=6d28d9" width="55%">
