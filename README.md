@@ -1,95 +1,81 @@
+<!-- Profile README for github.com/harshitnagar22 -->
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:2563eb,100:06b6d4&height=220&section=header&text=Harshit%20Nagar&fontSize=50&fontColor=fff&fontAlignY=35&desc=CS%40JECRC%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Building%20Things%20That%20Matter&descAlignY=55">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:2563eb,100:06b6d4&height=220&section=header&text=Harshit%20Nagar&fontSize=50&fontColor=fff&fontAlignY=35&desc=CS%40JECRC%20%E2%80%A2%20Open%20Source%20%E2%80%A2%20Building%20Things%20That%20Matter&descAlignY=55">
-  </picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:14b8a6&height=230&section=header&text=Harshit%20Nagar&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Computer%20Science%20Student%20%7C%20Open-Source%20Contributor%20%7C%20Thoughtful%20Builder&descAlignY=55&descSize=16" alt="Harshit Nagar" width="100%" />
 </div>
 
 <div align="center">
-  
-[![Followers](https://img.shields.io/github/followers/harshitnagar22?style=for-the-badge&logo=github&label=Followers&color=6d28d9)](https://github.com/harshitnagar22)
-[![Repos](https://img.shields.io/badge/Public%20Repos-36-2563eb?style=for-the-badge&logo=github)](https://github.com/harshitnagar22?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshit-9cdm.onrender.com/)
-[![Email](https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitnagar222@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitnagar22)
+
+[![GitHub followers](https://img.shields.io/github/followers/harshitnagar22?style=flat-square&logo=github&label=Followers&color=0f172a)](https://github.com/harshitnagar22)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-14b8a6?style=flat-square&logo=googlechrome&logoColor=white)](https://harshit-9cdm.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitnagar22)
+[![Email](https://img.shields.io/badge/Email-Write%20to%20me-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshitnagar222@gmail.com)
 
 </div>
 
-<br>
+> **I build practical software with care for the people who use, read, and maintain it.**  
+> From Python tooling and accessible documentation to polished web experiences, I enjoy turning clear problems into focused, review-ready contributions.
 
-> *"Learn by building. Contribute by caring."*
+## Who I am
 
----
+I'm a Computer Science student at JECRC University, Jaipur, and an open-source contributor. My work spans Python, TypeScript/React, documentation tooling, accessibility, and frontend quality.
 
-## 👨‍💻 About Me
+I like the craft around the code: understanding an issue before changing it, keeping solutions focused, responding to review feedback, and leaving a project easier to maintain than I found it.
 
-CS student at **JECRC University, Jaipur** — passionate about **Python, TypeScript & AI**, open-source contributing, and building tools that make developers' lives easier.
+<pre>understand the problem  →  build a focused fix  →  test and review  →  improve the project</pre>
 
-I don't just use tech — I dissect it, improve it, and share it. Whether it's contributing fixes to **matplotlib** and **Sphinx**, or crafting my own tools like **fenn** (ML framework) and **SkillOpt** (LLM skill optimizer) — I'm in the trenches, building.
-
-<br>
-
-## 🚀 Open Source Impact
-
-**23+ PRs** across **20+ repositories** — contributions ranging from Microsoft to OpenCV to synchrotron beamline infrastructure:
+## Selected open-source work
 
 | Project | Contribution | Status |
-|:--------|:-------------|:------:|
-| [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib/pull/31986) | Gallery thumbnails for missing examples | ✅ Open |
-| [sphinx-doc/sphinx](https://github.com/sphinx-doc/sphinx/pull/14517) | WCAG accessibility — `lang` attribute fix | ✅ Open |
-| [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt/pull/110) | Strengthened verifier-discipline tests | ✅ Open |
-| [fossasia/voxbento](https://github.com/fossasia/voxbento/pull/256) | Extracted inline styles → CSS classes | ✅ Merged |
-| [pyfenn/fenn](https://github.com/pyfenn/fenn/pull/200) | Added type hints to dashboard module | ✅ Merged |
-| [opencv/opencv_contrib](https://github.com/opencv/opencv_contrib) | Contributions to extra modules | ✅ Merged |
-| [famirco/cloudnap](https://github.com/famirco/cloudnap/pull/4) | Dark/light theme toggle | ✅ Merged |
-| [DiamondLightSource/blueapi](https://github.com/DiamondLightSource/blueapi) | Synchrotron beamline API contributions | ✅ Merged |
-| [hmpl-language/hmpl](https://github.com/hmpl-language/hmpl) | Server-side template language (2 PRs) | ✅ Merged |
+| :-- | :-- | :-- |
+| [Fenn](https://github.com/pyfenn/fenn/pull/200) | Added type annotations across a Flask dashboard, improving contracts and static-tool support. | **Merged** |
+| [CloudNap](https://github.com/famirco/cloudnap/pull/4) | Built a persistent dark/light theme with local storage and system-preference detection. | **Merged** |
+| [Voxbento](https://github.com/fossasia/voxbento/pull/256) | Replaced footer inline styles with reusable CSS classes for safer maintenance. | **Merged** |
+| [Sphinx](https://github.com/sphinx-doc/sphinx/pull/14517) | Proposed language metadata propagation for untranslated content—an accessibility and i18n improvement. | **Open** |
+| [Matplotlib](https://github.com/matplotlib/matplotlib/pull/31986) | Added gallery thumbnails that make Python examples easier to discover. | **Open** |
+| [HireGauge](https://github.com/AdvancedUno/HireGauge/pull/47) | Added deterministic résumé-claim cross-checks and test coverage for an AI-assisted evaluation workflow. | **Open** |
 
-<br>
+<sub>Recent contribution review: 12 merged and 4 open pull requests across 16 analyzed projects. Open items are shown as proposed work until merged.</sub>
 
-## 🛠️ Tech Stack
+## What I work with
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-0f172a?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 </div>
 
-<br>
+## The kind of problems I enjoy
 
-## 📊 GitHub Stats
+- **Developer experience:** type safety, clear contracts, useful documentation, and maintainable tooling.
+- **Accessible software:** improvements that make interfaces and documentation work better for more people.
+- **Product polish:** straightforward UI features, reliable state handling, and responsive feedback.
+- **Open-source collaboration:** issue investigation, scoped pull requests, review iteration, and tests where they add confidence.
+
+## Contribution snapshot
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitnagar22&theme=tokyonight&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitnagar22&theme=tokyonight&hide_border=true&background=0d1117&border=6d28d9" width="55%">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=harshitnagar22&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" alt="Harshit's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitnagar22&layout=compact&hide_border=true&theme=transparent" alt="Harshit's most-used languages" height="165" />
 </div>
 
-<br>
+## Let's connect
 
----
+I'm always glad to exchange ideas, learn from strong codebases, and contribute where a careful implementation can help.
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:6d28d9&height=120&section=footer">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:6d28d9&height=120&section=footer">
-  </picture>
 
-  <br><br>
+[Portfolio](https://harshit-9cdm.onrender.com/) · [LinkedIn](https://linkedin.com/in/harshitnagar22) · [GitHub](https://github.com/harshitnagar22) · [Email](mailto:harshitnagar222@gmail.com)
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=firefox&logoColor=white)](https://harshit-9cdm.onrender.com/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitnagar22)
-  [![Email](https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitnagar222@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshitnagar22)
+<br>
 
-  <sub>Built with ☕ in Jaipur, India</sub>
+<sub>Build carefully. Document clearly. Leave the codebase better.</sub>
+
 </div>
