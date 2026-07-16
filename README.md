@@ -61,11 +61,6 @@ I like the craft around the code: understanding an issue before changing it, kee
 
 ## Contribution snapshot
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshitnagar22&show_icons=true&hide_title=true&hide_border=true&rank_icon=github&theme=transparent" alt="Harshit's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitnagar22&layout=compact&hide_border=true&theme=transparent" alt="Harshit's most-used languages" height="165" />
-</div>
-
 ## Let's connect
 
 I'm always glad to exchange ideas, learn from strong codebases, and contribute where a careful implementation can help.
