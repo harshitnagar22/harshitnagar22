@@ -24,18 +24,7 @@ I like the craft around the code: understanding an issue before changing it, kee
 
 <pre>understand the problem  →  build a focused fix  →  test and review  →  improve the project</pre>
 
-## Selected open-source work
 
-| Project | Contribution | Status |
-| :-- | :-- | :-- |
-| [Fenn](https://github.com/pyfenn/fenn/pull/200) | Added type annotations across a Flask dashboard, improving contracts and static-tool support. | **Merged** |
-| [CloudNap](https://github.com/famirco/cloudnap/pull/4) | Built a persistent dark/light theme with local storage and system-preference detection. | **Merged** |
-| [Voxbento](https://github.com/fossasia/voxbento/pull/256) | Replaced footer inline styles with reusable CSS classes for safer maintenance. | **Merged** |
-| [Sphinx](https://github.com/sphinx-doc/sphinx/pull/14517) | Proposed language metadata propagation for untranslated content—an accessibility and i18n improvement. | **Open** |
-| [Matplotlib](https://github.com/matplotlib/matplotlib/pull/31986) | Added gallery thumbnails that make Python examples easier to discover. | **Open** |
-| [HireGauge](https://github.com/AdvancedUno/HireGauge/pull/47) | Added deterministic résumé-claim cross-checks and test coverage for an AI-assisted evaluation workflow. | **Open** |
-
-<sub>Recent contribution review: 12 merged and 4 open pull requests across 16 analyzed projects. Open items are shown as proposed work until merged.</sub>
 
 ## What I work with
 
