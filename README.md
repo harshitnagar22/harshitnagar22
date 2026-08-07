@@ -14,7 +14,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Third-Year+CSE+Student+%40+JECRC+University;Open+Source+Contributor+%7C+4%2B+Merged+PRs;Exploring+ML+%2C+Full-Stack+%26+AI+Applications;Currently+contributing+to+matplotlib+%F0%9F%90%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=600&lines=Final-Year+CSE+Student+%40+JECRC+University;Open+Source+Contributor+%7C+4%2B+Merged+PRs;Exploring+ML+%2C+Full-Stack+%26+AI+Applications;Currently+contributing+to+matplotlib+%F0%9F%90%8D" alt="Typing SVG" />
 
 </div>
 
@@ -22,7 +22,7 @@
 
 ## 👋 About Me
 
-I'm **Harshit**, a third-year Computer Science student at **JECRC University, Jaipur**, who learns best by shipping real things — whether that's a machine learning model, a full-stack app, or a pull request to a project I don't own (yet).
+I'm **Harshit**, a Final-year Computer Science student at **JECRC University, Jaipur**, who learns best by shipping real things — whether that's a machine learning model, a full-stack app, or a pull request to a project I don't own (yet).
 
 - 🔭 Currently building projects across **ML, full-stack web dev, and AI applications**
 - 🌱 Actively contributing to **open-source** — from computer vision libraries to data-viz tooling
