@@ -117,15 +117,6 @@ Full-stack task management application
 
 <br/>
 
-
-## 🎓 Certifications
-
-`IBM SkillsBuild` — Python · Machine Learning · Data Science 101 · Rapid Development for AI · Deep Learning with TensorFlow · Text Analytics 101
-
-<br/>
-
-<div align="center">
-
 ### 🤝 Let's Connect
 
 Open to **Software Developer Trainee/Intern** roles, collaborations, and interesting open-source issues to solve.
