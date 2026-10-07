@@ -28,7 +28,6 @@ I'm **Harshit**, a Final-year Computer Science student at **JECRC University, Ja
 - 🌱 Actively contributing to **open-source** — from computer vision libraries to data-viz tooling
 - 💼 Completed a **Software Developer Internship @ Myriad Digitals**, shipping an NLP-based analyzer and an AI resume builder
 - 🎯 Looking for **Software Developer Trainee/Intern** roles where I can keep building and breaking things (productively)
-- ⚡ Fun fact: I'd rather debug a failing PR check at midnight than leave it for tomorrow
 
 <br/>
 
