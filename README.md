@@ -123,9 +123,6 @@ Open to **Software Developer Trainee/Intern** roles, collaborations, and interes
 <a href="https://www.linkedin.com/in/nagar-harshit">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://harshit-9cdm.onrender.com/">
-  <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 <br/><br/>
 
