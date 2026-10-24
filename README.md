@@ -33,7 +33,7 @@ I'm **Harshit**, a Final-year Computer Science student at **JECRC University, Ja
 
 ## 🌐 Open Source Contributions
 
-I actively contribute to real-world open-source repositories — reading codebases, understanding maintainer standards, and iterating through review cycles.
+I actively contribute to real-world open-source repositories — reading codebases, understanding maintainer standards, and iterating through review cycles. .
 
 | Project | Contribution | Status |
 |---|---|---|
